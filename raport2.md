@@ -5,6 +5,8 @@
 
 ![image](https://user-images.githubusercontent.com/130842911/232762479-1aa86cce-8217-4e15-bfad-f68aa0217ec6.png)
 
+- wyświetla znane sieci bezprzewodowe i kablowe oraz sieć, do której jestem obecnie połączona
+
 - serwera zajęciowego, wpisując `ifconfig` w terminal
 
 ![image](https://user-images.githubusercontent.com/130842911/232764650-9f0b20ff-4387-45c0-a8b9-dbbc68358f41.png)
