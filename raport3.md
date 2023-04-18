@@ -6,7 +6,7 @@
 4. Zapisuję lokalnie 3 grafiki
 5. Wysyłam je na serwer zajęciowy za pomocą polecenia `mput` pozwala ono na przesłanie kilku plików
 
-![image](https://user-images.githubusercontent.com/130842911/232825709-ac9dea28-bbc3-4c7f-94a6-dd8c0621e361.png)
+![image](https://user-images.githubusercontent.com/130842911/232837730-a6ef2857-96a0-465f-88c7-9f6b4f7c0525.png)
 
 6. Kopiuję pliki przy pomocy `pscp.exe`
 
