@@ -20,3 +20,16 @@
 9. Pobrałam pliku z serwera do katalogu tmp za pomocą `psftp.exe` i polecenia `get`. Żeby nie wpisywać ścieżek lokalizacji przemieściłam się za pomocą poleceń `cd` i `lcd` do odopwiednich lokalizacji.
 
 ![image](https://user-images.githubusercontent.com/130842911/232836617-454255af-a008-4829-b55f-bc558639e899.png)
+
+10. Pobrałam program WinSCP i połączyłam się z serwerem `mts.wibro.agh.edu.pl`
+11. Zalogowałąm się przy pomocy programu WinSCP na konto zajęciowe
+
+![image](https://user-images.githubusercontent.com/130842911/234315486-186d1745-194b-4443-9eaa-fa6df90a8446.png)
+
+- nie wyświetla polskich znaków
+12. Żeby wyświetlało polskie znaki należy użyć polecenia `metacharset="UTF-8"`.
+13. Chciałam skonfigurować WinSCP, tak, żeby VSCode był domyślnym edytorem, niestety program się zbuntował i przestał odpowiadać
+
+![image](https://user-images.githubusercontent.com/130842911/234322671-321503a8-bbc4-4b8d-9889-a61b83a8ebb1.png)
+
+15. Konfiguruję serwer ftp
