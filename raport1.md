@@ -1,6 +1,6 @@
 # Raport 1
 
-1. Uruchomiam plik PuTTY i konfiguruję go.
+1. Uruchomiam plik PuTTY i konfiguruję go. 
 2. Loguję się.
 3. Generuję klucze RSA przy pomocy `ssh-keygen`. Znajduję je. Kopiuję je na konto na serwerze student. Pracuję z konsoli mts-a na koncie studenta, korzystjąc z polecenia `ssh`. Znajduję klucz za pomocą polecenia `ls –a`. Pierwsze znajduję .ssh, następnie przeszukuję znaleziony folder, w którym znajdują się moje klucze publiczne. Żeby przejść do konta student, nie muszę się logować, wystarczy, że użyję polecenia `ssh` i podam nazwę mojego konta.
 
